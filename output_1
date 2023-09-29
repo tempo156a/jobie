@@ -1,0 +1,147 @@
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.wuzzuf.net [[96m"v=DMARC1; p=none; pct=100; rua=mailto:postmaster@wuzzuf.net;"[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] wuzzuf.net
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] wuzzuf.net [[96mns-1500.awsdns-59.org.[0m,[96mns-1770.awsdns-29.co.uk.[0m,[96mns-337.awsdns-42.com.[0m,[96mns-620.awsdns-13.net.[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] wuzzuf.net
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] wuzzuf.net [[96m5 aspmx2.googlemail.com.[0m,[96m5 aspmx3.googlemail.com.[0m,[96m1 aspmx.l.google.com.[0m,[96m3 alt1.aspmx.l.google.com.[0m,[96m3 alt2.aspmx.l.google.com.[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] it-dev.pl
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] paraminfo.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] squarera.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] harpycommerce.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] metamelon.org
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] nexcelbahrain.com
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] paraminfo.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] paraminfo.com [[96m0 paraminfo-com.mail.protection.outlook.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] commercetools.com [[96m"apple-domain-verification=uDYXuEnnxPfa6wwJ"[0m,[96m"google-site-verification=X0macfuuHr0G8IHICLFgM7iLjB_V61_tRWGdGkCneHo"[0m,[96m"google-site-verification=wx4guk65Zl_pwZS7lF_pWuFvrDPRIh8NUmTgZMvzBIo"[0m,[96m"mgverify=b3f58b5b1e839289990e189b1b6e1ff55d35e9dd5f4f55f5055a413c356ff315"[0m,[96m"mongodb-site-verification=paJLEbgvpTulCCqHcAbwYvK7m3XuHeNG"[0m,[96m"MJ_VFY=b64dccee54a0f2ba8c9482b839341a9b.txt"[0m,[96m"MS=ms76812508"[0m,[96m"atlassian-domain-verification=2wi/up2GsQSJv7d4vVMKCPvkl3gj3jSJhiAUhQDmdR3/XHhuUkCCKac7NwOlx9aX"[0m,[96m"atlassian-sending-domain-verification=ecfb8749-9346-4b94-987e-bb4849fecb5d"[0m,[96m"onetrust-domain-verification=4aa60a7671f840598bd1f5a3e9264f5b"[0m,[96m"v=spf1 include:_spf.google.com include:spf.mailjet.com include:spf.mandrillapp.com include:4784080.spf04.hubspotemail.net ipv4:3.67.54.56 ipv6:2a05:d014:b6d:df05::1000 ~all"[0m,[96m"atlassian-domain-verification=7qeDCq4H/5PH7S9lmEQFZ9gfGhb4bMFGoEhtek4HFYoTaVaD2fQCwJpZRPhCUnxF"[0m,[96m"google-site-verification=QSnFex-IxOhAsevHMgnRMsVHnZXJZ4DxumIOjPju45s"[0m,[96m"google-site-verification=a7Xo5yJzN6iJqw3_J6iTWcIMpE9HI1ir0vixWq_GdIo"[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] squarera.com [[96m0 mail.squarera.com.[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] tecbrix.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] tecbrix.com [[96m0 tecbrix-com.mail.protection.outlook.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] globalrescue.com [[96mns-1680.awsdns-18.co.uk.[0m,[96mns-36.awsdns-04.com.[0m,[96mns-579.awsdns-08.net.[0m,[96mns-1112.awsdns-11.org.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] datanyze.com [[96m"google-site-verification=naqEZQCN6UEzU8GFI1cHH8tT_ygSO49GIR_ZnLgPGi0"[0m,[96m"google-site-verification=s8bSF6ykzGbjCvGs40DiqogsMjceEJGCCYfHK83BQsI"[0m,[96m"v=spf1 include:_u.datanyze.com._spf.smart.ondmarc.com -all"[0m,[96m"0ed1fe018a0c38771c42b84ef2b1726d"[0m,[96m"google-site-verification=H6N0fkyNHIs2qd5u_fBY4W81pV5UGw55k3oE2axhDFU"[0m,[96m"google-site-verification=O7oxWfdgGaf-2iZUa0ojUzIYCllcY0Cc-E6bwF8rDm4"[0m,[96m"google-site-verification=QdRx6SHgsD8LzgtlJm4ocYu1PbJQjdRAJam-I_GOVRg"[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl [[96m0 tuinmaximaal-nl.mail.protection.outlook.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] digitalpartnersglobal.com [[96m"google-site-verification=_iWDUbbCawaQmxrF09nZ8Ug21iDlDUxzqcCruV3rvqQ"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] avomind.com [[96mns4.wixdns.net.[0m,[96mns5.wixdns.net.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] airbus.com [[96mudns1.cscdns.net.[0m,[96mudns2.cscdns.uk.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] calo.jobs [[96mns21.domaincontrol.com.[0m,[96mns22.domaincontrol.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] metamelon.org [[96mns38.domaincontrol.com.[0m,[96mns37.domaincontrol.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] coherentsolutions.com [[96mns-106.awsdns-13.com.[0m,[96mns-1308.awsdns-35.org.[0m,[96mns-1695.awsdns-19.co.uk.[0m,[96mns-912.awsdns-50.net.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] it-dev.pl [[96mns1-07.azure-dns.com.[0m,[96mns2-07.azure-dns.net.[0m,[96mns3-07.azure-dns.org.[0m,[96mns4-07.azure-dns.info.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] halian.com [[96m"8g6tp7kvb5ul96fdil14vi8g8q"[0m,[96m"ETKKSaqfz56YWEjL1gxKZTAzaADgvPFiVfl9Ey4lyZitNjGODQiWEiynulHkyuUhc+YgKSzRow6D3Fi+DGjyEA=="[0m,[96m"MS=ms97228095"[0m,[96m"Sendinblue-code:b52d77b3534746fadc81f3cfbe80c977"[0m,[96m"google-site-verification=17BROG-9WmxuXPy62hV9STDQkOl7kIVo8gp0RFOHZ7U"[0m,[96m"so6+h4CDCFlYhAmVvn8GiaU/yVxvYPANlHJQl0oAf1DbL7YehFlDDixKqz1BpqdNttFTFFe1J9OFe+34PKQ8ug=="[0m,[96m"2r8cqb6bja95fsfmqh6hjsk1gp"[0m,[96m"v=spf1 a mx ip4:104.47.11.202 ip4:20.117.83.0 ip4:87.200.7.146 ip4:64.89.44.0/24 include:spf.protection.outlook.com include:spf.loxo.co include:spf.eu.signature365.net include:139816451.spf03.hubspotemail.net include:_spf.bullhornmail.com -all"[0m,[96m"pqfsmp554ru0dk6ao3u4pamose"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] globalrescue.com [[96m"facebook-domain-verification=gt4cmkngc8gwxglpgm08dswrx1nqx3"[0m,[96m"google-site-verification=yLTP9OJJWLjcUU5FIP_ra66zBcAxkQTrUpansP3DD78"[0m,[96m"tpkvF2BCqo51WF3fLFFd/t9AqXYE8tiY83tJQY5/7rvI928JVxamHyxJaSOD9s8oGoR6x+4rxWzjkmmN3qcrWA=="[0m,[96m"v=spf1 mx a ip4:66.151.229.128/26 ip4:44.234.217.248/32 ip4:52.20.149.239/32 include:spf.protection.outlook.com include:relay.bswift.com include:customers.clickdimensions.com include:amazonses.com ~all"[0m,[96m"MS=ms59830286"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] deseniogroup.com [[96m"MS=ms11898217"[0m,[96m"google-site-verification=5d0RM6yItixo0ueahLvja4ykYH2AreHRf4GlbhtznMo"[0m,[96m"v=spf1 ip4:79.99.5.183 ip4:79.99.5.182 ip4:79.99.5.162 ip4:109.74.15.218 ip4:37.152.57.216 ip4:5.178.75.205 ip4:109.74.12.194 include:mail.zendesk.com include:_spf.google.com include:mailgun.org include:spf.protection.outlook.com ~all"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] halian.com [[96mluke.ns.cloudflare.com.[0m,[96mmary.ns.cloudflare.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] wuzzuf.net [[96m"facebook-domain-verification=cjp14xuqig5x3w6ao02xwz2d14z7lx"[0m,[96m"google-site-verification=jcSwUyUI3Lj5bGgidFM2EwUSJtHr8256aBV3FPHJO5w"[0m,[96m"v=DMARC1; p=quarantine; pct=100; rua=mailto:security@basharsoft.com;"[0m,[96m"v=spf1 a include:sendgrid.net include:_spf.google.com include:helpscoutemail.com ~all"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] nexcelbahrain.com [[96mns6386.hostgator.com.[0m,[96mns6385.hostgator.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] commercetools.com [[96mns-722.awsdns-26.net.[0m,[96mns-1285.awsdns-32.org.[0m,[96mns-1660.awsdns-15.co.uk.[0m,[96mns-240.awsdns-30.com.[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] coherentsolutions.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] coherentsolutions.com [[96m0 coherentsolutions-com.mail.protection.outlook.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl [[96mcoco.ns.cloudflare.com.[0m,[96mdane.ns.cloudflare.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] paraminfo.com [[96mns-1089.awsdns-08.org.[0m,[96mns-1571.awsdns-04.co.uk.[0m,[96mns-5.awsdns-00.com.[0m,[96mns-524.awsdns-01.net.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] paraminfo.com [[96m"v=spf1 include:spf.protection.outlook.com  include:spf.mandrillapp.com -all"[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] dautom.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] dautom.com [[96m0 dautom-com.mail.protection.outlook.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] squarera.com [[96m"v=spf1 ip4:185.146.22.248 include:spf.a2hosting.com +a +mx +ip4:68.66.248.27 ~all"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] tecbrix.com [[96m"v=spf1 include:spf.protection.outlook.com include:spf.easywp.com -all"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] dautom.com [[96mns05.domaincontrol.com.[0m,[96mns06.domaincontrol.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] tecbrix.com [[96mdns2.registrar-servers.com.[0m,[96mdns1.registrar-servers.com.[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] gekterna.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] gekterna.com [[96m10 gekterna-com.mail.protection.outlook.com.[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] datanyze.com [[96m10 us-smtp-inbound-1.mimecast.com.[0m,[96m10 us-smtp-inbound-2.mimecast.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] digitalpartnersglobal.com [[96mns1.101domain.com.[0m,[96mns5.101domain.com.[0m,[96mns2.101domain.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] datanyze.com [[96mrita.ns.cloudflare.com.[0m,[96mtim.ns.cloudflare.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] deseniogroup.com [[96methan.ns.cloudflare.com.[0m,[96mjourney.ns.cloudflare.com.[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] deseniogroup.com
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] globalrescue.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] deseniogroup.com [[96m0 deseniogroup-com.mail.protection.outlook.com.[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] globalrescue.com [[96m0 globalrescue-com.mail.protection.outlook.com.[0m]
+[[92mdnssec-detection[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl [[96m"cisco-ci-domain-verification=69c0508e9dd8535408e036695a21f09cb0626856265b4dde5adfa7ea7367d9dc"[0m,[96m"v=spf1 ip4:195.191.120.18 include:spf.protection.outlook.com include:spf.mandrillapp.com include:servers.mcsv.net ~all"[0m,[96m"MS=ms58922217"[0m,[96m"facebook-domain-verification=pef7fd00ovcns4kb6w2z0zg8rmmt5j"[0m,[96m"duo_sso_verification=Xb5dJFtjEXoJ84rpKtZ8ChZOhRiQUlcvzMTbamnaBRA1oLGIhmp64G6AblhtRNCg"[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] airbus.com [[96m8 mx2.myeers.net.[0m,[96m4 mx1.myeers.net.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] coherentsolutions.com [[96m"miro-verification=03200da3aa115d8d917f1b52a1f6835dcf8b726b"[0m,[96m"pardot436502=8a28f0184e9b258754b67e8365c203b3bf1bf964432fa9f2b1bdcf7d7440821c"[0m,[96m"teamviewer-sso-verification=e0271c0d667d49d390026e7e3c1df31f"[0m,[96m"v=spf1 include:spf.mtasv.net include:spf.protection.outlook.com include:aspmx.pardot.com -all"[0m,[96m"ZOOM_verify_rsEKKfgLS7SIh7MMvet31w"[0m,[96m"\"google-site-verification=vk0Ts6L46LJItel6PPxpDPuOt2Oh1OUrZvztwQTvzTo"[0m,[96m"apple-domain-verification=WACwd5AX8l5nqODX"[0m,[96m"docusign=16bc1cda-17c2-4f05-9d8f-c5c490e8ea67"[0m,[96m"workplace-domain-verification=[e955389b-a56f-43e8-a6f5-4d03475d1dfa]"[0m,[96m"zoho-verification=zb23437519.zmverify.zoho.com"[0m,[96m"atlassian-domain-verification=skgC5RddfsNRclGcbPeto02WX09AxZWVP2Phk8XlSJ3HihnagGXm+C4qb8pAahCd"[0m,[96m"dropbox-domain-verification=wn109d88erkr"[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] halian.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] halian.com [[96m1 halian-com.mail.protection.outlook.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] wearemeta.io [[96m"v=spf1 include:spf.protection.outlook.com -all"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] crossover.com [[96m"google-site-verification=pnSzPS7Qe6r-_jJKixuVjC6wLLfTbmAtzOIqY3tbFXE"[0m,[96m"v=spf1 ip4:54.156.15.254 include:_spf.salesforce.com include:_spf.google.com include:mail.zendesk.com ~all"[0m,[96m"SFMC-SoS2KO0AogFGiPW34-5ykZsvqNdbbldnVajs-C8B" "9ituheslbktekkug52am1b52a4"[0m,[96m"atlassian-domain-verification=9w3BKP3ksKsjJP9F0nxLlNea67003hSEhuCoXu76/0NwNFsJoW6ECA3CICiFrUe/"[0m,[96m"facebook-domain-verification=fpde4aezytns394y46722zhj86lp60"[0m,[96m"google-site-verification=GZ4OiGTqk-ZMbVl14R0GobRZaWnH3_zxwvkuJ-u1aTg"[0m,[96m"google-site-verification=mvbwavQGf7UgRsagEv-wNeQc7RCyWxpvX_v5zcGjtjw"[0m,[96m"google-site-verification=VBnVUlxSXNKuFUGftBD0YAsrarUV4A7SAv6Ju0n6NmQ"[0m,[96m"google-site-verification=leLFSYTX0NkDKxadW6rubz-IFPextV02IEPL51kMpVU"[0m,[96m"lg2hbiqq498vhfmd4g37ip0p5h" "re359a524ligciuphhba5nvdop"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] dautom.com [[96m"v=verifydomain MS=9571243"[0m,[96m"google-site-verification=wY8ih3cnAEgsoTt9jidyeX7FRsMsaA_-p-gdOy0GBpU"[0m,[96m"v=spf1 include:spf.protection.outlook.com -all"[0m,[96m"brevo-code:6c2f0fbe914329141a9a976c6ebe295c"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] crossover.com [[96mns-429.awsdns-53.com.[0m,[96mns-569.awsdns-07.net.[0m,[96mns-1395.awsdns-46.org.[0m,[96mns-1725.awsdns-23.co.uk.[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] commercetools.com
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] crossover.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] commercetools.com [[96m1 aspmx.l.google.com.[0m,[96m10 alt3.aspmx.l.google.com.[0m,[96m10 alt4.aspmx.l.google.com.[0m,[96m5 alt1.aspmx.l.google.com.[0m,[96m5 alt2.aspmx.l.google.com.[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] crossover.com [[96m10 alt4.aspmx.l.google.com.[0m,[96m5 alt1.aspmx.l.google.com.[0m,[96m5 alt2.aspmx.l.google.com.[0m,[96m1 aspmx.l.google.com.[0m,[96m10 alt3.aspmx.l.google.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] harpycommerce.com [[96m"MS=ms82909666"[0m,[96m"v=spf1 include:dc-aa8e722993._spfm.harpycommerce.com ~all"[0m,[96m"google-site-verification=JuiKuovP52jEHsc6rlFcU6yoTWNRUJaJK4zet-GQaMg"[0m]
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] wearemeta.io
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] wearemeta.io [[96m0 wearemeta-io.mail.protection.outlook.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] harpycommerce.com [[96mns15.domaincontrol.com.[0m,[96mns16.domaincontrol.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] metamelon.org [[96m"v=spf1 include:dc-aa8e722993._spfm.metamelon.org ~all"[0m,[96m"google-site-verification=KjIlGLteMwzm6GlE_QcsrIwW5Zn_KAxJdCIA5sEZNhE"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] wearemeta.io [[96mns7.mydnspt.net.[0m,[96mns2.mydnspt.net.[0m,[96mns8.mydnspt.net.[0m,[96mns1.mydnspt.net.[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] metamelon.org
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] metamelon.org [[96m10 alt4.aspmx.l.google.com.[0m,[96m1 aspmx.l.google.com.[0m,[96m5 alt1.aspmx.l.google.com.[0m,[96m5 alt2.aspmx.l.google.com.[0m,[96m10 alt3.aspmx.l.google.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] squarera.com [[96mns2.a2hosting.com.[0m,[96mns4.a2hosting.com.[0m,[96mns3.a2hosting.com.[0m,[96mns1.a2hosting.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] avomind.com [[96m"google-site-verification=1ql4Criy_dTjDp8hO1el8w6FTBieOJhNPKHcM7IXH18"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] acetechgroup.com [[96mns.liquidweb.com.[0m,[96mns1.liquidweb.com.[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] harpycommerce.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] harpycommerce.com [[96m1 aspmx.l.google.com.[0m,[96m5 alt1.aspmx.l.google.com.[0m,[96m5 alt2.aspmx.l.google.com.[0m,[96m10 alt3.aspmx.l.google.com.[0m,[96m10 alt4.aspmx.l.google.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] gekterna.com [[96m"8bgVVbcF1Os+dzrwB9ibflMmHU/zmKcBArMy6XvHJ4xeEL/RAzU8SS9RVCxfmYIcDmvbOVDiClUukX8o1JAcuQ=="[0m,[96m"5S/A4gqaCv7c7UYX3M1xKRgun1IsN4+6bz9g998THNJ6zUFlefxq/1nNoiXJMv5rdTRHnDls1HJCxer0OtF5Lw=="[0m,[96m"facebook-domain-verification=hp5fyzyn1tzg68tv7vnqvmskl3f6l7"[0m,[96m"knowbe4-site-verification=589e2a575912ecd056010c49e26af557"[0m,[96m"v=spf1 mx ip4:195.46.3.6 include:spf.protection.outlook.com ~all"[0m,[96m"MS=ms24144895"[0m,[96m"GOOGLE-SITE-VERIFICATION=CHUWI2L-K1SS5XW7ZFUPZZAT-U8KXE9MJSV4Z-TFWJK"[0m,[96m"atlassian-domain-verification=zK2Ec6LkdBjqAIqy5wYvEx3P8fy6H6z1L8AQDcTGQa4zV/G2wniaQlYDzHt13YDd"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] acetechgroup.com [[96m"MS=4BCD63DFF2636A02CC9ECAC15F3BA55D1B0DAC40"[0m,[96m"google-site-verification=WIJj1ixh8zudqZWQPayDbQ6ufxAJoAU4Y4bmKfY7f4M"[0m,[96m"amazonses:7SiSsSoaJZYsNzJdZMaRgnMWIlZZtkHAoSgQw4pOfFo="[0m,[96m"ppe-ff5711f4fd1d1426396b1d7658a24294b1e6fabb"[0m,[96m"amazonses:cHAjipm1bOQVj9I9+z266YOZDfIMINrtbkDCTJzYRsI="[0m,[96m"v=spf1 a:dispatch-us.ppe-hosted.com ip4:76.164.230.6/32 ip4:162.252.248.0/22 include:spf.protection.outlook.com include:spf.myconnectwise.net include:spf.mindmatrix.net include:mailgun.org include:_spf.createsend.com ~all"[0m]
+[[92mmx-service-detector[0m:[1;92mProofpoint US[0m] [[94mdns[0m] [[34minfo[0m] acetechgroup.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] acetechgroup.com [[96m20 mx2-us1.ppe-hosted.com.[0m,[96m10 mx1-us1.ppe-hosted.com.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] nexcelbahrain.com [[96m"google-site-verification=cJWIfe88dUhn7vdZHb2_LecVxLhMCKUN1QKyyVxWVmg"[0m,[96m"v=spf1 +ip4:198.57.247.157 +include:sender.zohobooks.com"[0m,[96m"google-site-verification=mMx7gMIAb-73QonEa5CFaLsll86oa2frtW67QHMoHiU"[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] nexcelbahrain.com [[96m0 mail.nexcelbahrain.com.[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] avomind.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] avomind.com [[96m30 alt2.aspmx.l.google.com.[0m,[96m10 aspmx.l.google.com.[0m,[96m20 alt1.aspmx.l.google.com.[0m,[96m40 alt3.aspmx.l.google.com.[0m,[96m50 alt4.aspmx.l.google.com.[0m]
+[[92mcaa-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] datanyze.com [[96mpki.goog; cansignhttpexchanges=yes[0m,[96mmailto:security@datanyze.com[0m,[96mcomodoca.com[0m,[96mdigicert.com; cansignhttpexchanges=yes[0m,[96mletsencrypt.org[0m]
+[[92mdns-saas-service-detection[0m:[1;92mcloudflare-cdn[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] tecbrix.com
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.it-dev.pl [[96m"v=DMARC1; p=none; rua=mailto:dmarc_agg@vali.email;"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.halian.com [[96m"v=DMARC1; p=quarantine; pct=100; rua=mailto:dmarc@halian.com"[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] coherentsolutions.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] wearemeta.io
+[[92mdns-saas-service-detection[0m:[1;92mcloudflare-cdn[0m] [[94mdns[0m] [[34minfo[0m] datanyze.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] airbus.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] crossover.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] gekterna.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] commercetools.com
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.airbus.com [[96m"v=DMARC1;p=reject;rua=mailto:4z8gw3pr@ag.eu.dmarcadvisor.com,mailto:dl-dmarc-report@airbus.com;ruf=mailto:dl-dmarc-ruf@airbus.com;fo=1;"[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] globalrescue.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] digitalpartnersglobal.com
+[[92mdns-saas-service-detection[0m:[1;92mcloudflare-cdn[0m] [[94mdns[0m] [[34minfo[0m] halian.com
+[[92mdns-saas-service-detection[0m:[1;92mcloudflare-cdn[0m] [[94mdns[0m] [[34minfo[0m] deseniogroup.com
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.tuinmaximaal.nl [[96m"v=DMARC1; p=quarantine; rua=mailto:postmaster@intern.systems; ruf=mailto:postmaster@intern.systems; pct=100; fo=1;"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] gekterna.com [[96mns0.panafonet.gr.[0m,[96mexchange.gekterna.gr.[0m,[96mns1.panafonet.gr.[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.crossover.com [[96m"v=DMARC1; p=quarantine; rua=mailto:dmarc@crossover.com; ruf=mailto:dmarc@crossover.com; fo=1"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.globalrescue.com [[96m"v=DMARC1; p=quarantine; rua=mailto:dmarc@globalrescue.com,mailto:dmarc_agg@vali.email; ruf=mailto:dmarc@globalrescue.com; rf=afrf; adkim=r; aspf=r; pct=100; fo=1; ri=86400;"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.commercetools.com [[96m"v=DMARC1; p=quarantine; rua=mailto:dmarc@commercetools.com; ruf=mailto:dmarc@commercetools.com; pct=100"[0m]
+[[92mcaa-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] commercetools.com [[96mawstrust.com[0m,[96mcomodoca.com[0m,[96mletsencrypt.org[0m,[96mrapidssl.com[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] calo.jobs
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] acetechgroup.com
+[[92mdns-saas-service-detection[0m:[1;92mwix[0m] [[94mdns[0m] [[34minfo[0m] avomind.com
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.dautom.com [[96m"v=DMARC1; p=reject"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.coherentsolutions.com [[96m"v=DMARC1; p=none; pct=100; rua=mailto:Abuse@coherentsolutions.com; fo=0; ri=86400"[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] dautom.com
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.datanyze.com [[96m"v=DMARC1; p=reject; pct=100; sp=reject; rua=mailto:e8352ad7@inbox.ondmarc.com; ruf=mailto:e8352ad7@inbox.ondmarc.com; adkim=r; aspf=r; fo=0; rf=afrf; ri=3600"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.acetechgroup.com [[96m"v=DMARC1; p=reject; rua=mailto:hqycyjrh@ag.us.dmarcian.com, mailto:dmarc_agg@vali.email"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.gekterna.com [[96m"v=DMARC1; p=none; rua=mailto:dalexopoulos@gekterna.com; ruf=mailto:dalexopoulos@gekterna.com; fo=1"[0m]
+[[92mdmarc-detect[0m] [[94mdns[0m] [[34minfo[0m] _dmarc.nexcelbahrain.com [[96m"v=DMARC1;p=none;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400"[0m,[96m"v=DMARC1;p=none;rua=mailto:6346a290ae@rua.easydmarc.asia;ruf=mailto:6346a290ae@ruf.easydmarc.asia;fo=1;"[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] url
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] yassir.com [[96mns-cloud-c4.googledomains.com.[0m,[96mns-cloud-c3.googledomains.com.[0m,[96mns-cloud-c1.googledomains.com.[0m,[96mns-cloud-c2.googledomains.com.[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] xpertdigital.com [[96mpdns11.domaincontrol.com.[0m,[96mpdns12.domaincontrol.com.[0m]
+[[92mdns-waf-detect[0m:[1;92mcloudflare[0m] [[94mdns[0m] [[34minfo[0m] datanyze.com
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] xpertdigital.com
+[[92mdns-waf-detect[0m:[1;92mcloudflare[0m] [[94mdns[0m] [[34minfo[0m] deseniogroup.com
+[[92mdns-saas-service-detection[0m:[1;92mnetlify[0m] [[94mdns[0m] [[34minfo[0m] zenveus.com
+[[92mdns-waf-detect[0m:[1;92mcloudflare[0m] [[94mdns[0m] [[34minfo[0m] tuinmaximaal.nl
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] zenveus.com [[96m"v=spf1 include:spf.privateemail.com ~all"[0m,[96m"google-site-verification=ZGNWr9V_nhuPE6plKalZZjnOZ4QiG3Q52Ww-UGmbK0A"[0m,[96m"google-site-verification=xrdvNZqI15nAjind08veW_WLzuBA1UHTF8h3woc4fbQ"[0m]
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] zenveus.com [[96mdns1.p01.nsone.net.[0m,[96mdns2.p01.nsone.net.[0m,[96mdns3.p01.nsone.net.[0m,[96mdns4.p01.nsone.net.[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] xpertdigital.com [[96m"NETORGFT11280109.onmicrosoft.com"[0m,[96m"v=spf1 include:secureserver.net -all"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] yassir.com [[96m"google-site-verification=b2nfCsWxkNDQdSUidMloqDElmJkbXE-UuMTut7M09hs"[0m]
+[[92mtxt-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] it-dev.pl [[96m"atlassian-domain-verification=6Ggshx8ukdAhBl9FLx3BNBz7kSmypx1UQahF2OGgWYAU0pNbIkEGtFZAggcaOH/q"[0m,[96m"v=spf1 include:_spf.mlsend.com include:spf.protection.outlook.com -all"[0m]
+[[92mmx-service-detector[0m:[1;92mGoogle Apps[0m] [[94mdns[0m] [[34minfo[0m] yassir.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] yassir.com [[96m10 alt4.aspmx.l.google.com.[0m,[96m5 alt1.aspmx.l.google.com.[0m,[96m10 alt3.aspmx.l.google.com.[0m,[96m5 alt2.aspmx.l.google.com.[0m,[96m1 aspmx.l.google.com.[0m]
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] yassir.com
+[[92mmx-service-detector[0m:[1;92mOffice 365[0m] [[94mdns[0m] [[34minfo[0m] xpertdigital.com
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] xpertdigital.com [[96m0 xpertdigital-com.mail.protection.outlook.com.[0m]
+[[92mmx-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] zenveus.com [[96m10 mx2.privateemail.com.[0m,[96m10 mx1.privateemail.com.[0m]
+[[92mdns-waf-detect[0m:[1;92mcloudflare[0m] [[94mdns[0m] [[34minfo[0m] halian.com
+[[92mCVE-2017-5487[0m:[1;92musernames[0m] [[94mhttp[0m] [[33mmedium[0m] https://squarera.com/wp-json/wp/v2/users/ [[96mAdmin[0m,[96mMaham Shafiq[0m,[96madmin[0m,[96mmaham[0m]
+[[92moptions-method[0m] [[94mhttp[0m] [[34minfo[0m] https://paraminfo.com [[96mPOST,OPTIONS,HEAD,GET[0m]
+[[92mCVE-2017-5487[0m:[1;92musernames[0m] [[94mhttp[0m] [[33mmedium[0m] https://paraminfo.com/?rest_route=/wp/v2/users/ [[96mchandrajithkm[0m,[96melina-samantrai[0m,[96mAnna Stark[0m,[96mChanakya Kyatham[0m,[96mParaminfo[0m,[96mRiyas Rouf[0m,[96mElina Samantrai[0m,[96manna-stark[0m,[96mchanakya[0m,[96mcolewest[0m,[96mparam-info-admin[0m,[96mriya[0m,[96mCole West[0m]
