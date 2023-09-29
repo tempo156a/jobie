@@ -40,13 +40,12 @@ jobs:
         run: docker pull projectdiscovery/nuclei:latest
 
       # Runs projectdiscovery/nuclei:latest, volume mounts the current directory to /app/ in the container, add --no-interactsh flag to disable interactsh, and runs nuclei on the domains_filtered 
-      # and tee the output to output_1
       - name: Run Nuclei
-        run: bash -c "docker run -v $(pwd):/app/ projectdiscovery/nuclei:latest -l /app/domains_filtered --no-interactsh | tee output_1"
+        run: docker run -v $(pwd):/app/ projectdiscovery/nuclei:latest -l /app/xaa --no-interactsh -o output_2
 
-      # Save output_1 to artifacts
+      # Save output_2 to artifacts
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v2
         with:
-          name: output_1
-          path: output_1
+          name: output_2
+          path: output_2
